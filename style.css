@@ -1,0 +1,236 @@
+body {
+  font-family: 'Sanchez', serif;
+  text-transform: uppercase;
+  width: 700px;
+  margin: 15px;
+  padding: 10px;
+  text-align: left;
+      }
+.block-left {
+  width: 300px;
+  float: left;
+  line-height: 0px;
+    }
+#p {
+    margin: 0px;
+    }
+.block-leftsemi {
+  width: 0px;
+  float: left;
+  line-height: 0px;
+    }
+.block-right {
+  width: 320px;
+  float: left;
+  padding-left: 0px;
+  line-height: 0px;
+    }
+.block-getting {
+  width: 320px;
+  float: left;
+  padding-left: 25px;
+  line-height: 0px;
+  }
+.block-full {
+  width: 700px;
+  float: left;
+  line-height: 0px;
+    }
+
+/* this is your */
+.emphasis-1 {
+    font-size: 30pt;
+    letter-spacing: 0px;
+    line-height: 35px;
+    }
+/* do what you love */
+.emphasis-2 {
+    font-size: 20pt;
+    letter-spacing: 0px;
+    line-height: 45px;
+    }
+/* and do it often */
+.emphasis-3 {
+    font-size: 20pt;
+    letter-spacing: 2px;
+    line-height: 22px;
+    }
+/* life */
+.emphasis-4 {
+    font-size: 100pt;
+    letter-spacing: 0px;
+    color: green;
+    line-height: 75%;
+    }
+/* if you don't like something */
+.emphasis-5 {
+    font-size: 20.2pt;
+    letter-spacing: 0px;
+    line-height: 40px;
+    }
+/* if you don't like your job */
+.emphasis-6 {
+    font-size: 22.7pt;
+    letter-spacing: 2px;
+    line-height: 30px;
+    }
+/* if you don't have */
+.emphasis-7 {
+    font-size: 15.75pt;
+    letter-spacing: 0px;
+    line-height: 40px;
+    }
+/* if you are */
+.emphasis-8 {
+    font-size: 15.55pt;
+    letter-spacing: 0px;
+    line-height: 15px;
+    }
+/* they will be */
+.emphasis-9 {
+    font-size: 19.55pt;
+    letter-spacing: 0px;
+    line-height: 50px;
+    }
+/* start doing */
+.emphasis-10 {
+    font-size: 27pt;
+    letter-spacing: 0px;
+    line-height: 30px;
+    }
+/* stop over */
+.emphasis-11 {
+    font-size: 17pt;
+    letter-spacing: 0px;
+    line-height: 40px;
+    }
+/* life is simple */
+.emphasis-12 {
+    font-size: 26.75pt;
+    letter-spacing: 0px;
+    line-height: 25px;
+    }
+/* all emotions */
+.emphasis-13 {
+    font-size: 14.28pt;
+    letter-spacing: 0px;
+    line-height: 35px;
+    }
+/* when you */
+.emphasis-14 {
+    font-size: 11pt;
+    letter-spacing: 4px;
+    line-height: 2px;
+    }
+/* every last bite */
+.emphasis-15 {
+    font-size: 22.2pt;
+    letter-spacing: 2.5px;
+    line-height: 35px;
+    }
+/* open your mind */
+.emphasis-16 {
+    font-size: 16.25pt;
+    letter-spacing: 0px;
+    line-height: 32px;
+    }
+/* and people */
+.emphasis-17 {
+    font-size: 17.15pt;
+    letter-spacing: 0px;
+    line-height: 22px;
+    }
+/* ask the */
+.emphasis-18 {
+    font-size: 15.1pt;
+    letter-spacing: 0px;
+    line-height: 30px;
+    }
+/* and share the */
+.emphasis-19 {
+    font-size: 17.85pt;
+    letter-spacing: 0px;
+    line-height: 25px;
+    }
+/* travel often */
+.emphasis-20 {
+  font-size: 27pt;
+  letter-spacing: 0px;
+  line-height: 45px;
+    }
+
+#semi {
+  font-size: 38pt;
+  font-family: 'Arvo', serif;
+  line-height: 28px;
+    }
+
+/* getting lost */
+.emphasis-21 {
+    font-size: 15.75pt;
+    letter-spacing: 4px;
+    line-height: 28px;
+    }
+/* help you find */
+.emphasis-22 {
+    font-size: 12.2pt;
+    letter-spacing: 3px;
+    line-height: 10px;
+    }
+/* some opportunites */
+.emphasis-23 {
+    font-size: 16.25pt;
+    letter-spacing: 0px;
+    line-height: 30px;
+    }
+/* life is about */
+.emphasis-24 {
+    font-size: 20.2pt;
+    letter-spacing: 0px;
+    word-spacing: 0px;
+    line-height: 30px;
+    }
+/* the things */
+.emphasis-25 {
+    font-size: 22.7pt;
+    letter-spacing: 0px;
+    line-height: 35px;
+    }
+/* so go out */
+.emphasis-26 {
+    font-size: 25.7pt;
+    letter-spacing: 0px;
+    line-height: 30px;
+    }
+/* life is */
+.emphasis-27 {
+    font-size: 52pt;
+    letter-spacing: 3px;
+    color: green;
+    line-height: 80px;
+    }
+/* short */
+.emphasis-28 {
+    font-size: 52pt;
+    letter-spacing: 5px;
+    color: green;
+    line-height: 40px;
+    }
+/* live your */
+.emphasis-29 {
+    font-size: 24pt;
+    letter-spacing: 0px;
+    line-height: 55px;
+    }
+/* and share */
+.emphasis-30 {
+    font-size: 38pt;
+    letter-spacing: 0px;
+    line-height: 30px;
+    }
+/* your passion */
+.emphasis-31 {
+    font-size: 30.5pt;
+    letter-spacing: 0px;
+    line-height: 50px;
+    }
